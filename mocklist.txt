@@ -67,3 +67,8 @@ timezone_field.backends.zoneinfo
 explorer.utils
 documents.tasks
 trips.serializers
+pypdf
+bgb.tasks
+qrcode
+qrcode.image
+qrcode.image.svg
