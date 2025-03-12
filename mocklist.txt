@@ -56,3 +56,4 @@ pywebpush
 django_typomatic
 common.utils
 common.email
+import_export.admin
