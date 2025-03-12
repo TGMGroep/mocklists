@@ -15,6 +15,7 @@ rest_framework.generics
 rest_framework.views
 rest_framework.parsers
 rest_framework.serializers
+rest_framework.fields
 requests
 redis
 celery.exceptions
