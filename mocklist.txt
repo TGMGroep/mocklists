@@ -58,9 +58,7 @@ pkg_resources
 common.utils
 common.email
 import_export.admin
-planner.data
 planner.tasks
-workorders.data
 workorders.tasks
 base.serializers
 planner.serializers
