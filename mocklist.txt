@@ -54,6 +54,7 @@ django.core.mail
 diff_match_patch
 pywebpush
 django_typomatic
+pkg_resources
 common.utils
 common.email
 import_export.admin
