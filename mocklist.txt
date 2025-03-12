@@ -53,3 +53,6 @@ django.test.utils
 django.core.mail
 diff_match_patch
 pywebpush
+django_typomatic
+common.utils
+common.email
