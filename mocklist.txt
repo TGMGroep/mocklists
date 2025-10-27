@@ -43,12 +43,6 @@ django.http
 django.http.response
 django.http.multipartparser
 django.http.request
-cryptography.hazmat
-cryptography.hazmat.backends
-cryptography.hazmat.primitives
-cryptography.hazmat.primitives.serialization
-cryptography.hazmat.primitives.asymmetric
-cryptography.hazmat.primitives.hashes
 django.test.utils
 django.core.mail
 diff_match_patch
