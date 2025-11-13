@@ -1,8 +1,5 @@
 django.core.cache.backends.filebased
 kombu.utils.json
-lxml
-lxml.etree
-lxml.builder
 kombu
 django.utils.six
 pydoc
